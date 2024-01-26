@@ -1,1 +1,1 @@
-Educational project: writting List from stratch after studying C++ during 5 month
+Educational project: writing List from scratch after studying C++ during 5 month
